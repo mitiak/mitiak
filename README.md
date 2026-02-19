@@ -28,12 +28,6 @@ Here are some of the repositories you might find interesting:
 
 ---
 
-## 📈 GitHub Stats
-
-[![Dima’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mitiak&show_icons=true&theme=dark)](https://github.com/mitiak)
-
----
-
 ## 🛠️ Tech & Tools
 
 - **Languages:** Python, Bash / Shell, SQL  
