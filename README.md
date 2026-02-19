@@ -19,7 +19,7 @@
 
 Here are some of the repositories you might find interesting:
 
-- 🔑 **[`api_security_engine`](https://github.com/mitiak/api_security_engine)** – A custom engine for API security assessment and automation  
+- 🔑 **[`apiseectool`](https://github.com/mitiak/apisectool)** – A custom engine for API security assessment and automation  
 - 🎛️ **[`config`](https://github.com/mitiak/config)** – My personal configuration dotfiles and productivity tweaks  
 - 🪏 **[`regxy`](https://github.com/mitiak/regxy)** – FastAPI service that scans websites, source code, and notebooks using regex patterns
 - 📚 **[`raggy`](https://github.com/mitiak/raggy)** – A system that answers questions over your docs with smart semantic search and real citations.
