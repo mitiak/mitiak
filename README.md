@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I’m Dima 👋
 
-<!--
-**mitiak/mitiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Software Engineer | Python, Security & DevOps Enthusiast  
+💡 I build reliable tools and services — from API engines to automation and developer tooling.  
+🚀 Currently focused on backend systems, security automation, and open-source contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧠 Passionate about writing clean, scalable code and systems that solve real problems  
+- 🛠️ Built tools in Python, Bash, and cloud-native environments  
+- 🔒 Interest in infrastructure security, dev tooling, CI/CD automation  
+- 🌍 Always learning — experimenting with new stacks and building side projects
+
+---
+
+## 🔎 What I’m Working On
+
+Here are some of the repositories you might find interesting:
+
+- 🔑 **[`api_security_engine`](https://github.com/mitiak/api_security_engine)** – A custom engine for API security assessment and automation  
+- 🎛️ **[`config`](https://github.com/mitiak/config)** – My personal configuration dotfiles and productivity tweaks  
+- 📚 **[`raggy`](https://github.com/mitiak/raggy)** – A system that answers questions over your docs with smart semantic search and real citations.
+
+(*More projects and contributions coming soon!*)
+
+---
+
+## 📈 GitHub Stats
+
+[![Dima’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mitiak&show_icons=true&theme=dark)](https://github.com/mitiak)
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Languages:** Python, Bash / Shell, SQL  
+- **Infrastructure:** Linux, Docker, CI/CD (GitHub Actions, GitLab CI)  
+- **Security:** OAuth, API security patterns  
+- **Other:** AWS, scripting automation
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mitiak  
+- 📧 Email: dimako.dev@gmail.com
+
+---
+
+> “Build tools that help you *and* help the world.”
