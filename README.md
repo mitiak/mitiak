@@ -1,4 +1,4 @@
-# Hi, I’m Dima 👋
+# Welcome 👋
 
 🔭 Software Engineer | Python, Security & DevOps Enthusiast  
 💡 I build reliable tools and services — from API engines to automation and developer tooling.  
