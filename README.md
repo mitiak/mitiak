@@ -22,7 +22,7 @@ Here are some of the repositories you might find interesting:
 - 🔑 **[`api-sieve`](https://github.com/mitiak/api-sieve)** – A custom engine for API security assessment and automation  
 - 🎛️ **[`config`](https://github.com/mitiak/config)** – Configuration, dotfiles and productivity tweaks
 - 🪏 **[`regxy`](https://github.com/mitiak/regxy)** – FastAPI service that scans websites, source code, and notebooks using regex patterns
-- 📚 **[`raggy`](https://github.com/mitiak/raggy)** – A system that answers questions over your docs with smart semantic search and real citations
+- 📚 **[`raggy`](https://github.com/mitiak/raggy)** – Answers questions over your docs with smart semantic search and real citations
 - 🦞 **[`logster`](https://github.com/mitiak/logster)** – A lightweight configurable log formatter
 - 🧑🏻‍🚀 **[`taskonaut`](https://github.com/mitiak/taskonaut)** – A deterministic task running app
 
