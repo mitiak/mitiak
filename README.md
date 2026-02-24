@@ -26,6 +26,8 @@ Here are some of the repositories you might find interesting:
 - 🦞 **[`logster`](https://github.com/mitiak/logster)** – A lightweight configurable log formatter
 - 🧑🏻‍🚀 **[`taskonaut`](https://github.com/mitiak/taskonaut)** – A deterministic task running app
 - 🏙️ **[`scraper`](https://github.com/mitiak/scraper)** – Authenticated website offline mirror built with Playwright
+- 👮🏻‍♂️ **[`guardflow`](https://github.com/mitiak/guardflow)** – A secure AI tool-call execution pipeline with policy enforcement
+
 
 (*More projects and contributions coming soon!*)
 
