@@ -25,6 +25,7 @@ Here are some of the repositories you might find interesting:
 - 📚 **[`raggy`](https://github.com/mitiak/raggy)** – Answers questions over your docs with smart semantic search and real citations
 - 🦞 **[`logster`](https://github.com/mitiak/logster)** – A lightweight configurable log formatter
 - 🧑🏻‍🚀 **[`taskonaut`](https://github.com/mitiak/taskonaut)** – A deterministic task running app
+- 🏙️ **[`scraper`](https://github.com/mitiak/scraper)** – Authenticated website offline mirror built with Playwright
 
 (*More projects and contributions coming soon!*)
 
