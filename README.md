@@ -27,6 +27,7 @@ Here are some of the repositories you might find interesting:
 - 🧑🏻‍🚀 **[`taskonaut`](https://github.com/mitiak/taskonaut)** – A deterministic task running app
 - 🏙️ **[`scraper`](https://github.com/mitiak/scraper)** – Authenticated website offline mirror built with Playwright
 - 👮🏻‍♂️ **[`guardflow`](https://github.com/mitiak/guardflow)** – A secure AI tool-call execution pipeline with policy enforcement
+- 🔎 **[`cdrmind`](https://github.com/mitiak/cdrmind)** – SOC Copilot that analyzes CloudTrail logs and produces reports with MITRE ATT&CK mappings, risk scores, and evidence citations — powered by a local or cloud LLM
 
 
 (*More projects and contributions coming soon!*)
