@@ -15,7 +15,7 @@
 
 ---
 
-## 🔎 What I’m Working On
+## 🔎 What I'm Working On
 
 Here are some of the repositories you might find interesting:
 
@@ -28,6 +28,7 @@ Here are some of the repositories you might find interesting:
 - 🏙️ **[`scraper`](https://github.com/mitiak/scraper)** – Authenticated website offline mirror built with Playwright
 - 👮🏻‍♂️ **[`guardflow`](https://github.com/mitiak/guardflow)** – A secure AI tool-call execution pipeline with policy enforcement
 - 🔎 **[`cdrmind`](https://github.com/mitiak/cdrmind)** – SOC Copilot that analyzes CloudTrail logs and produces reports with MITRE ATT&CK mappings, risk scores, and evidence citations — powered by a local or cloud LLM
+- 🌡️ **[`sensorhouse`](https://github.com/mitiak/sensorhouse)** – End-to-end IoT data platform: Kafka ingestion → ClickHouse time-series storage → FastAPI REST layer → Grafana dashboards
 
 
 (*More projects and contributions coming soon!*)
@@ -50,4 +51,4 @@ Here are some of the repositories you might find interesting:
 
 ---
 
-> “Build tools that help you *and* help the world.”
+> "Build tools that help you *and* help the world."
